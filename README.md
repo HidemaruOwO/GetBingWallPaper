@@ -1,6 +1,7 @@
 # GetBingWallPaper
 
 JS で Bing の背景画像を取得する
+取得された画像は`img_url`という変数に格納されてます
 
 ## 技術
 
